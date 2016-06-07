@@ -19,8 +19,8 @@ class IvonaClient
     public $outputFormatCodec = 'MP3';
     public $outputFormatSampleRate = '22050';
     public $parametersRate = 'slow';
-    public $voiceLanguage = 'pl-PL';
-    public $voiceName = 'Maja';
+    public $voiceLanguage = 'en-GB';
+    public $voiceName = 'Brian';
     public $xAmzAlgorithm = 'AWS4-HMAC-SHA256';
     public $xAmzSignedHeaders = 'host';
     public $xAmzDate;
